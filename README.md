@@ -1,4 +1,4 @@
-# WindowsActivateStateFix
+# Windows10 ActivateStateFix
 
 This is a small batch file. In many cases, Windows may not be activated for various reasons.
 
